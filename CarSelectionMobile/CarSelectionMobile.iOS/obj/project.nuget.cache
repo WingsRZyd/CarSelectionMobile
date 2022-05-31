@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "IEL/qzr/YfCmWxng7DGNw1RoXZsV0GqVs9bL8XlIXNm3jCAh7mYb/9S4q5FNg9HuQ3P8JBXXi+ACmJ7Q/nzmCw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\roma-\\RiderProjects\\CarSelectionMobile\\CarSelectionMobile\\CarSelectionMobile.iOS\\CarSelectionMobile.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\roma-\\.nuget\\packages\\xamarin.forms\\5.0.0.2012\\xamarin.forms.5.0.0.2012.nupkg.sha512"
+  ],
+  "logs": []
+}

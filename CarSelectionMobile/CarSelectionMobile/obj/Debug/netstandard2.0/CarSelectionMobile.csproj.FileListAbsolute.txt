@@ -1,0 +1,13 @@
+C:\Users\roma-\RiderProjects\CarSelectionMobile\CarSelectionMobile\CarSelectionMobile\bin\Debug\netstandard2.0\CarSelectionMobile.deps.json
+C:\Users\roma-\RiderProjects\CarSelectionMobile\CarSelectionMobile\CarSelectionMobile\bin\Debug\netstandard2.0\CarSelectionMobile.dll
+C:\Users\roma-\RiderProjects\CarSelectionMobile\CarSelectionMobile\CarSelectionMobile\bin\Debug\netstandard2.0\CarSelectionMobile.pdb
+C:\Users\roma-\RiderProjects\CarSelectionMobile\CarSelectionMobile\CarSelectionMobile\obj\Debug\netstandard2.0\CarSelectionMobile.csproj.AssemblyReference.cache
+C:\Users\roma-\RiderProjects\CarSelectionMobile\CarSelectionMobile\CarSelectionMobile\obj\Debug\netstandard2.0\CarSelectionMobile.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\roma-\RiderProjects\CarSelectionMobile\CarSelectionMobile\CarSelectionMobile\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\roma-\RiderProjects\CarSelectionMobile\CarSelectionMobile\CarSelectionMobile\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\roma-\RiderProjects\CarSelectionMobile\CarSelectionMobile\CarSelectionMobile\obj\Debug\netstandard2.0\CarSelectionMobile.AssemblyInfoInputs.cache
+C:\Users\roma-\RiderProjects\CarSelectionMobile\CarSelectionMobile\CarSelectionMobile\obj\Debug\netstandard2.0\CarSelectionMobile.AssemblyInfo.cs
+C:\Users\roma-\RiderProjects\CarSelectionMobile\CarSelectionMobile\CarSelectionMobile\obj\Debug\netstandard2.0\CarSelectionMobile.csproj.CoreCompileInputs.cache
+C:\Users\roma-\RiderProjects\CarSelectionMobile\CarSelectionMobile\CarSelectionMobile\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\roma-\RiderProjects\CarSelectionMobile\CarSelectionMobile\CarSelectionMobile\obj\Debug\netstandard2.0\CarSelectionMobile.dll
+C:\Users\roma-\RiderProjects\CarSelectionMobile\CarSelectionMobile\CarSelectionMobile\obj\Debug\netstandard2.0\CarSelectionMobile.pdb
