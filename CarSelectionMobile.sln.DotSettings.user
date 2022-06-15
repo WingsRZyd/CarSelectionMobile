@@ -1,0 +1,7 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=1aabc743_002Dbfbf_002D4d60_002Dab71_002D6a29d0aa5bec/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="WelcomeTextIsDisplayed" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit2x::ACA23D64-34E4-4702-86EC-0C04EB1FF3F2::.NETFramework,Version=v4.8::UITestCarSelectionMobile.AppTests(Android).TestMethod1&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit2x::ACA23D64-34E4-4702-86EC-0C04EB1FF3F2::.NETFramework,Version=v4.8::UITestCarSelectionMobile.AppTests(iOS).TestMethod1&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>

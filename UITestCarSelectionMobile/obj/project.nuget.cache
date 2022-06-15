@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "9LwHkOgSo/RettbcCGOlzbQKCgjoHlaHRPwaAQFi7skIAqSM6jTqsnqo+S1MhRZEewX8HKI3DcaMWTNa3zkEqA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\roma-\\RiderProjects\\CarSelectionMobile\\UITestCarSelectionMobile\\UITestCarSelectionMobile.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\roma-\\.nuget\\packages\\nunit\\2.6.4\\nunit.2.6.4.nupkg.sha512",
+    "C:\\Users\\roma-\\.nuget\\packages\\xamarin.uitest\\2.2.4\\xamarin.uitest.2.2.4.nupkg.sha512"
+  ],
+  "logs": []
+}

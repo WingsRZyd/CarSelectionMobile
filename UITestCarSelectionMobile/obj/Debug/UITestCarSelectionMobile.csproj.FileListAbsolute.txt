@@ -1,0 +1,9 @@
+C:\Users\roma-\RiderProjects\CarSelectionMobile\UITestCarSelectionMobile\bin\Debug\UITestCarSelectionMobile.dll
+C:\Users\roma-\RiderProjects\CarSelectionMobile\UITestCarSelectionMobile\bin\Debug\UITestCarSelectionMobile.pdb
+C:\Users\roma-\RiderProjects\CarSelectionMobile\UITestCarSelectionMobile\bin\Debug\nunit.framework.dll
+C:\Users\roma-\RiderProjects\CarSelectionMobile\UITestCarSelectionMobile\bin\Debug\Xamarin.UITest.dll
+C:\Users\roma-\RiderProjects\CarSelectionMobile\UITestCarSelectionMobile\obj\Debug\UITestCarSelectionMobile.csproj.AssemblyReference.cache
+C:\Users\roma-\RiderProjects\CarSelectionMobile\UITestCarSelectionMobile\obj\Debug\UITestCarSelectionMobile.csproj.CoreCompileInputs.cache
+C:\Users\roma-\RiderProjects\CarSelectionMobile\UITestCarSelectionMobile\obj\Debug\UITestCarSelectionMobile.csproj.CopyComplete
+C:\Users\roma-\RiderProjects\CarSelectionMobile\UITestCarSelectionMobile\obj\Debug\UITestCarSelectionMobile.dll
+C:\Users\roma-\RiderProjects\CarSelectionMobile\UITestCarSelectionMobile\obj\Debug\UITestCarSelectionMobile.pdb
